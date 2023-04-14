@@ -9,4 +9,3 @@
 
 🔗 https://juejin.cn/user/729731449230711
 
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=fishel-feng&theme=dracula" />
