@@ -9,6 +9,4 @@
 
 🔗 https://juejin.cn/user/729731449230711
 
-<!-- <img align="center" src="https://github-readme-stats-wine-two.vercel.app/api/top-langs/?username=fishel-feng&hide=html,css,hack,perl,c,smarty&langs_count=4" /> -->
-
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=fishel-feng&theme=dracula" />
