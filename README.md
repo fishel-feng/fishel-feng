@@ -1,4 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=fishel-feng&show_icons=true&theme=tokyonight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishel-feng&layout=compact&hide=vba,html&langs_count=5&theme=transparent" alt="Fishel's Top Langs" />
 
 ### Hi, I'm Fishel 👏
 
