@@ -18,8 +18,13 @@
 - 🔧 &nbsp; Neovim | Tmux | Zsh | Git
 - 🚀 &nbsp; Docker | Nginx
 
-<img src="https://github-readme-stats.vercel.app/api?username=fishel-feng&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishel-feng&layout=compact&hide=vba,html&langs_count=5&theme=transparent" alt="Fishel's Top Langs" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fishel-feng&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishel-feng&layout=compact&hide=vba,html&langs_count=5&theme=transparent" alt="Fishel's   Top Langs" />
+</p>
 
 <p align="center"> 
   Visitor count<br>
