@@ -26,7 +26,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fishel-feng&layout=compact&hide=vba,html&langs_count=5&theme=transparent" alt="Fishel's   Top Langs" />
 </p>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/fishel-feng/count.svg" />
-</p>
