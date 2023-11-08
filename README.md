@@ -15,7 +15,7 @@
 - 🎯 &nbsp; JavaScript | TypeScript | Node
 - 💻 &nbsp; React | Rxjs | WebAssembly | Solidjs
 - 🛢 &nbsp; MySQL | Redis | MongoDB
-- 🔧 &nbsp; Neovim | Tmux | Zsh | Git
+- 🔧 &nbsp; Neovim | Kitty | Hammerspoon | Zsh | Git
 - 🚀 &nbsp; Docker | Nginx
 
 <p align="center">
