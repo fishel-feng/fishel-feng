@@ -4,6 +4,13 @@
   <img src="https://raw.githubusercontent.com/fishel-feng/fishel-feng/master/snake/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,wasm,react,solidjs,reactivex,nodejs,nestjs,docker,git,vim,neovim,vscode,nginx,notion,obsidian,npm,rollupjs,nextjs,vite,tailwind,redux,py,postman,redis,mongodb,mysql,postgres,md,babel,deno,electron,github,pnpm,rust" /><br>
+
+<div align="center">
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fishel-feng&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fishel-feng&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide=html" />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fishel-feng/fishel-feng/master/profile-3d-contrib/profile-night-green.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fishel-feng/fishel-feng/master/profile-3d-contrib/profile-green-animate.svg" />
@@ -25,12 +32,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=fishel-feng&theme=xcode&bg_color=FF000000&hide_border=true" />
   </picture>
 </div>
-
-<div align="center">
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=fishel-feng&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-<img height="137px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=fishel-feng&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide=html" />
-</div>
-
 
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
@@ -64,5 +65,3 @@
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,wasm,react,solidjs,reactivex,nodejs,nestjs,docker,git,vim,neovim,vscode,nginx,notion,obsidian,npm,rollupjs,nextjs,vite,tailwind,redux,py,postman,redis,mongodb,mysql,postgres,md,babel,deno,electron,github,pnpm,rust" /><br>
