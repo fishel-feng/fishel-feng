@@ -56,7 +56,7 @@
 ![Redis Badge](https://img.shields.io/badge/Redis-FF4438?logo=redis&logoColor=fff&style=flat)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![WebRTC Badge](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=fff&style=flat)
-![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=fff&style=flat)
+![Webpack Badge](https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=000&style=flat)
 ![WebConmpents Badge](https://img.shields.io/badge/WebConmpents-29ABE2?logo=webcomponentsdotorg&logoColor=fff&style=flat)
 ![WebAssembly Badge](https://img.shields.io/badge/WebAssembly-654FF0?logo=webassembly&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
