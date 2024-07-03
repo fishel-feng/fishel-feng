@@ -49,7 +49,7 @@
 
 ![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=flat)
 ![Vim Badge](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat)
-![Zed Badge](https://img.shields.io/badge/Zed%20Industries-084CCF?logo=zedindustries&logoColor=fff&style=flat)
+![Zed Badge](https://img.shields.io/badge/Zed-084CCF?logo=zedindustries&logoColor=fff&style=flat)
 
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 
