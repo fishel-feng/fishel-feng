@@ -63,4 +63,4 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,wasm,react,solidjs,reactivex,nodejs,nestjs,docker,git,vim,neovim,vscode,nginx,notion,obsidian,npm,rollupjs,nextjs,vite,tailwind,redux,py,postman,redis,mongodb,mysql,postgres,md" /><br>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,wasm,react,solidjs,reactivex,nodejs,nestjs,docker,git,vim,neovim,vscode,nginx,notion,obsidian,npm,rollupjs,nextjs,vite,tailwind,redux,py,postman,redis,mongodb,mysql,postgres,md,babel,deno,electron,github,pnpm,rust" /><br>
